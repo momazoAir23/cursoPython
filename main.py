@@ -19,3 +19,4 @@ if __name__ == "__main__":
     numero.evaluarNumero()
     numero.sumar(5)
     print(f"La suma de {numero.valor} y 5 es: {numero.sumar(5)}")
+    print("=== Linea agregada para modificar el GIT ===")
